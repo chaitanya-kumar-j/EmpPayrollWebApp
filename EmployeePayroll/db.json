@@ -1,0 +1,54 @@
+{
+  "employees": [
+    {
+      "name": "Yuvraj Singh",
+      "profile": "../assets/profile-images/Male (1).png",
+      "gender": "male",
+      "department": [
+        "Engineer",
+        "Others"
+      ],
+      "salary": "478500",
+      "start date": "2018-08-16T18:30:00.000Z",
+      "note": "cricketer",
+      "id": 5
+    },
+    {
+      "name": "Sachin",
+      "profile": "../assets/profile-images/Male (1).png",
+      "gender": "male",
+      "department": [
+        "Sales",
+        "Engineer"
+      ],
+      "salary": "523500",
+      "start date": "2018-09-18T18:30:00.000Z",
+      "id": 6
+    },
+    {
+      "name": "new user",
+      "profile": "../assets/profile-images/Male (1).png",
+      "gender": "male",
+      "department": [
+        "Sales",
+        "Finance"
+      ],
+      "salary": "481900",
+      "start date": "2018-11-19T18:30:00.000Z",
+      "id": 8
+    },
+    {
+      "name": "Sehwag",
+      "profile": "../assets/profile-images/Male (3).png",
+      "gender": "male",
+      "department": [
+        "Sales",
+        "Finance"
+      ],
+      "salary": "484600",
+      "start date": "2018-06-16T18:30:00.000Z",
+      "note": "qwertyuiop",
+      "id": 9
+    }
+  ]
+}
